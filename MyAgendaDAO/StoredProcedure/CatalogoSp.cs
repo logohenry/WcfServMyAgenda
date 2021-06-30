@@ -5,6 +5,9 @@ using System.Text;
 
 namespace MyAgendaDAO.StoredProcedure
 {
+    /// <summary>
+    /// Catálogo de stored procedures.
+    /// </summary>
     public class CatalogoSp
     {
         /// <summary>
