@@ -5,6 +5,9 @@ using System.Text;
 
 namespace MyAgendaSA.Mensaje
 {
+    /// <summary>
+    /// Control de mensajes para el usuario, reglas de funcionalidad del web services.
+    /// </summary>
     public class Mensaje
     {
         /// <summary>

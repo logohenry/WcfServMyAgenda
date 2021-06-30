@@ -6,6 +6,7 @@ C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgenda
 C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.pdb
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaDTO\bin\Debug\MyAgendaDTO.dll
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaDTO\bin\Debug\MyAgendaDTO.pdb
+C:\GitHub\WS\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.csprojAssemblyReference.cache
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.csproj.CoreCompileInputs.cache
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.dll
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.pdb
