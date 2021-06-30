@@ -5,6 +5,9 @@ using System.Text;
 
 namespace MyAgendaDAO.Mensajes
 {
+    /// <summary>
+    /// Control de mensajes internos para el Web Services
+    /// </summary>
     public class Mensaje
     {
         #region Mensajes Comunes
