@@ -11,9 +11,10 @@ namespace MyAgendaBLL
     {
         public AgregarNuevoContactoResponse AgregarNuevoContactoBLL(AgregarNuevoContactoRequest request)
         {
-            bool estatusValidacion = false;
+            //Agregamos dos variables. Prueba de git para ver archivos modificados
+			bool estatusValidacion = false;
             string mensajeValidacion = string.Empty;
-
+			
             AgregarNuevoContactoResponse response = null;
             PropAgendaDAO peticion = new PropAgendaDAO();
 
