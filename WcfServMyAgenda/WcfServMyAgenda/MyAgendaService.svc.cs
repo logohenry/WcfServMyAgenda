@@ -38,6 +38,11 @@ namespace WcfServMyAgenda
             SolicitudesBLL bll = new SolicitudesBLL();
             return bll.EditarContactoBLL(Request);
         }
+        /// <summary>
+        /// Haciendo modificaciones para Git
+        /// </summary>
+        /// <param name="IdContacto"></param>
+        /// <returns></returns>
        public MyAgenda BuscarContacto(int IdContacto)
         {
             MyAgenda myAgenda = new MyAgenda();
