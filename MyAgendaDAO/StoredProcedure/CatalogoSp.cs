@@ -6,7 +6,8 @@ using System.Text;
 namespace MyAgendaDAO.StoredProcedure
 {
     /// <summary>
-    /// Catálogo de stored procedures.
+    /// Catálogo de stored procedures que generan ineraccion con la Base de Datos.
+    /// 
     /// </summary>
     public class CatalogoSp
     {
