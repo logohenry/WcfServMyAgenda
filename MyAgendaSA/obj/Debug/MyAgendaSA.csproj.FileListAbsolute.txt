@@ -9,10 +9,7 @@ C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaS
 C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.pdb
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaSA\bin\Debug\MyAgendaSA.dll
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaSA\bin\Debug\MyAgendaSA.pdb
-C:\GitHub\WS\WcfServMyAgenda\MyAgendaSA\bin\Debug\MyAgendaDTO.dll
-C:\GitHub\WS\WcfServMyAgenda\MyAgendaSA\bin\Debug\MyAgendaDTO.pdb
-C:\GitHub\WS\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.csprojAssemblyReference.cache
+C:\GitHub\WS\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.csproj.AssemblyReference.cache
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.csproj.CoreCompileInputs.cache
-C:\GitHub\WS\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.csproj.CopyComplete
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.dll
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.pdb

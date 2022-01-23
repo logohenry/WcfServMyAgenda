@@ -21,7 +21,7 @@ C:\GitHub\WS\WcfServMyAgenda\MyAgendaBLL\bin\Debug\Transaccion.Datos.dll
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaBLL\bin\Debug\MyAgendaDAO.pdb
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaBLL\bin\Debug\MyAgendaDTO.pdb
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaBLL\bin\Debug\MyAgendaSA.pdb
-C:\GitHub\WS\WcfServMyAgenda\MyAgendaBLL\obj\Debug\MyAgendaBLL.csprojAssemblyReference.cache
+C:\GitHub\WS\WcfServMyAgenda\MyAgendaBLL\obj\Debug\MyAgendaBLL.csproj.AssemblyReference.cache
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaBLL\obj\Debug\MyAgendaBLL.csproj.CoreCompileInputs.cache
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaBLL\obj\Debug\MyAgendaBLL.csproj.CopyComplete
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaBLL\obj\Debug\MyAgendaBLL.dll

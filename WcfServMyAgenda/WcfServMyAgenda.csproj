@@ -103,6 +103,10 @@
       <Project>{74dc2f49-dd60-49bc-b1f1-1be3f9e0a2bb}</Project>
       <Name>MyAgendaDTO</Name>
     </ProjectReference>
+    <ProjectReference Include="..\MyAgendaSA\MyAgendaSA.csproj">
+      <Project>{45fbfb9d-7bf7-4b0a-97e9-bd20636f4347}</Project>
+      <Name>MyAgendaSA</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

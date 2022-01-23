@@ -52,13 +52,13 @@
     <Compile Include="StoredProcedure\CatalogoSp.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Recursos\" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\MyAgendaDTO\MyAgendaDTO.csproj">
       <Project>{74dc2f49-dd60-49bc-b1f1-1be3f9e0a2bb}</Project>
       <Name>MyAgendaDTO</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Recursos\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

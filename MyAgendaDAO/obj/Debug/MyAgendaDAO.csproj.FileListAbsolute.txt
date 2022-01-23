@@ -13,7 +13,7 @@ C:\GitHub\WS\WcfServMyAgenda\MyAgendaDAO\bin\Debug\MyAgendaDAO.pdb
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaDAO\bin\Debug\MyAgendaDTO.dll
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaDAO\bin\Debug\Transaccion.Datos.dll
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaDAO\bin\Debug\MyAgendaDTO.pdb
-C:\GitHub\WS\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.csprojAssemblyReference.cache
+C:\GitHub\WS\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.csproj.AssemblyReference.cache
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.csproj.CoreCompileInputs.cache
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.csproj.CopyComplete
 C:\GitHub\WS\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.dll

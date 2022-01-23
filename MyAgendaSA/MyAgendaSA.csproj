@@ -43,11 +43,5 @@
     <Compile Include="Mensaje\Mensaje.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\MyAgendaDTO\MyAgendaDTO.csproj">
-      <Project>{74dc2f49-dd60-49bc-b1f1-1be3f9e0a2bb}</Project>
-      <Name>MyAgendaDTO</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
